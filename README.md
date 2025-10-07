@@ -15,8 +15,8 @@ pip install -r requirements.txt
 
 ### Checkpoints
 Download the pre-trained model checkpoints from the following link:
-- - Link: https://pan.baidu.com/s/1ybeS5Bh_-0jJm3QghjCRjA
-- - Extraction Code: g6mh
+- Link: https://pan.baidu.com/s/1ybeS5Bh_-0jJm3QghjCRjA
+- Extraction Code: g6mh
 
 After downloading, place the `.ckpt` files into a `Checkpoints/` directory in your project root.
 
